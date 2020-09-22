@@ -17,8 +17,8 @@
   },
   "license": "MIT",
   "author": "myrovh <myrovh@protonmail.com>",
+  "main": "dist/index.js",
   "module": "dist/index.es.js",
-  "browser": "dist/index.js",
   "types": "dist/index.d.ts",
   "files": [
     "dist"

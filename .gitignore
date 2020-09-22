@@ -1,0 +1,14 @@
+*.log
+.DS_Store
+node_modules
+.cache
+dist
+*.tgz
+
+# yarn 2
+.yarn/*
+!.yarn/releases
+!.yarn/plugins
+!.yarn/sdks
+!.yarn/versions
+.pnp.*

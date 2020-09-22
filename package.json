@@ -7,13 +7,13 @@
     "react-component",
     "material-ui"
   ],
-  "homepage": "https://github.com/episub/rhf-mui",
+  "homepage": "https://github.com/episub/mui-relay-table",
   "bugs": {
-    "url": "https://github.com/episub/rhf-mui/issues"
+    "url": "https://github.com/episub/mui-relay-table/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/episub/rhf-mui.git"
+    "url": "https://github.com/episub/mui-relay-table.git"
   },
   "license": "MIT",
   "author": "myrovh <myrovh@protonmail.com>",

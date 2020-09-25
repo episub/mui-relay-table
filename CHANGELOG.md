@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/episub/mui-relay-table/compare/v1.0.0...v1.0.1) (2020-09-25)
+
+
+### Bug Fixes
+
+* force release ([c0e2547](https://github.com/episub/mui-relay-table/commit/c0e254711f738ab680f93b5463a2113c06213fff))
+
 # 1.0.0 (2020-09-22)
 
 

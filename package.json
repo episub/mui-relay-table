@@ -1,6 +1,6 @@
 {
   "name": "@episub/mui-relay-table",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A material-ui based tabel designed specificially for tabular data coming from a relay style query",
   "keywords": [
     "react",
